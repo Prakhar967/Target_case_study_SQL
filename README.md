@@ -79,5 +79,5 @@ Aspiring Data Analyst | SQL, Python, Excel , numpy , pandas , Hypothesis Testing
 ---
 ## How to use
 
-You can view the case study analysis in 'Target_Sql.pdf'
-datasets file can be loaded into google BigQuery or MySQL for replications
+- You can view the case study analysis in 'Target_Sql.pdf'
+- Datasets file can be loaded into google BigQuery or MySQL for replications
